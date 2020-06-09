@@ -8,7 +8,7 @@ import { Paciente } from '../Modelo/Paciente';
 })
 export class PacienteServiceService {
 
-  url = 'http://localhost:8484/SpringBootGestionCitas2.1.1/pacientes';
+  url = 'http://localhost:8484/apiCitas/pacientes';
 
   constructor(private http:HttpClient) { }
 
