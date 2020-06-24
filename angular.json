@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GestionCitas"
+    }
+  },
+  "defaultProject": "GestionCitas",
+  "cli": {
+    "analytics": "cf6772ea-ad03-486f-88ba-d8975711d8cb"
+  }
 }
